@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    text-decoration: none;
+}
+.menu{
+    display: flex;
+    gap: 100px;
+    justify-content: space-between;
+    list-style: none;
+    background-color: #16437C;
+    color: #FFFFFF;
+    font-size: 2em;
+    padding: 10px 30px;
+    text-shadow: 0.1em 0.1em 0.2em black
+}
+.img{
+    display: flex;
+    justify-content: space-around;
+}
+.texto{
+    font-size: 30px;
+    width: 300px;
+    text-align: center;
+
+}
+.texto{
+    font-size: 30px;
+}
+.text{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    font-size: 1.5rem;
+}
+.titulo2{
+    text-align: center;
+}
+.texto2{
+    text-align: center;
+    font-size: 1.5rem;
+}
+.titulo3{
+    text-align: center;
+}
+.texto3{
+    text-align: center;
+    font-size: 1.5rem;
+}
+.a{
+    color: #FFFFFF;
+}
+.cortab{
+    background-color: #D9D9D9;
+}
+.cortab2{
+    background-color: #F2F2F2;
+}
+td, th{
+    border: 2px solid beige;
+    padding: 10px;
+}
+.menutab, .tabelaraffa{
+    background-color: #16437C;
+    color: #FFFFFF;
+}
+table{
+    align-items: left;
+    margin: 0 auto;
+    padding: 190px;
+}
+.box img{
+    display: flex;
+    flex: 1;
+}
+.center{
+    display: flex;
+    gap: 15px;
+}
+
+.center a{
+    color: #FFFFFF;
+}
+.divdif{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+}
+.textodif{
+    width: 30vw;
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+}
+.container, .groupbtn, .grouptext, .tituloprincipal {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.btn-refresh{
+    display: flex;
+    justify-content: center;
+    width: 35vw;
+}
+h1{
+    margin-bottom: 30px;
+}
+.rodape{
+    display: flex;
+    gap: 200px;
+    justify-content: center;
+    list-style: none;
+    background-color: gray;
+    color: #FFFFFF;
+    font-size: 1em;
+    padding: 30px 50px;
+    text-shadow: 0.1em 0.1em 0.2em black;
+    
+}
+footer{
+    display: flex;
+    margin-bottom: 30px;
+}
+.rodape img{
+    width: 40;
+    height: 60;
+}
+.a
+
+
+
+

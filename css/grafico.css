@@ -1,0 +1,91 @@
+
+
+  h1 {
+    font-family: Helvetica;
+    font-size: 1.5rem;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  h2 {
+    font-family: Arial;
+    font-size: 10pt;
+    text-align: center;
+  }
+
+  table,
+  th,
+  td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: #f3f6f5;
+  }
+
+  .div-lado {
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    padding: 25px;
+  }
+
+  .div-g {
+    width: 60%;
+  }
+
+  .div-t {
+    width: 25%;
+  }
+
+  .btn-refresh {
+    background: #fdfefe;
+    border-radius: 6px;
+    padding: 10px;
+    cursor: pointer;
+    color: rgb(16, 1, 1);
+    border: none;
+    font-size: 20px;
+    align-items: center;
+    justify-content: baseline;
+    
+  }
+  .center{
+   display: flex;
+   gap: 15px;
+}
+
+.center a{
+   color: #FFFFFF;
+}
+.img{
+  display: flex;
+  justify-content: space-around;
+}
+.titulodados{
+  display: flex;
+  justify-content: center;
+  text-align: justify;
+}
+.links{
+  width: 35vw;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  font-size: 20px;
+  font-family: 'Trebuchet MS';
+  margin-bottom: 100px;
+  display: flex;
+  justify-content: center;
+}
+.menu{
+  display: flex;
+  gap: 100px;
+  justify-content: space-between;
+  list-style: none;
+  background-color: #16437C;
+  color: #FFFFFF;
+  font-size: 2em;
+  padding: 10px 30px;
+  text-shadow: 0.1em 0.1em 0.2em black
+}
