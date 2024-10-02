@@ -98,12 +98,12 @@ table{
 .container, .groupbtn, .grouptext, .tituloprincipal {
     display: flex;
     justify-content: center;
-    margin-bottom: 60px; 
+    margin-bottom: 20px; 
 }
 .btn-refresh{
     display: flex;
     justify-content: center;
-    width: 35vw;
+    width: 550vw;
 }
 h1{
     margin-bottom: 30px;
